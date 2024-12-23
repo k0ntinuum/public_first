@@ -1,0 +1,1 @@
+This is a proof-of-concept toy-size version of a public key cryptsystem. This is the inside part, which will be obscured with boolean functions that blend the output bits via a secret permutation. The public key will be a set of boolean functions on the 16 bits of the input. 
